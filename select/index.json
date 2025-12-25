@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "DJ in my life",
+  "base_artist": "Elephant Kashimashi",
+  "createdAt": "2025-12-25T08:58:48.402642Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DJ in my life",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_01_DJ_in_my_life_エレファントカシマシ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "DJ in my life",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_02_DJ_in_my_life_エレファントカシマシ.txt"
+    }
+  ]
+}
